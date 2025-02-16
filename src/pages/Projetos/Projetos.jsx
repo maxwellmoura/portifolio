@@ -48,7 +48,7 @@ const Projetos = () => {
                 </div>
                 <div className="projeto">
                     <a href="https://ladding-page-pied.vercel.app/">
-                        <img src="/assets/lanchonete.png" alt="Ladding-Page" />
+                        <img src="/assets/landpage.PNG" alt="Ladding-Page" />
                         <h1>Projeto 4</h1>
                         <div className="informacoes-projeto">
                             <h2>Ladding Page</h2>
@@ -59,7 +59,7 @@ const Projetos = () => {
                 </div>
                 <div className="projeto">
                     <a href="https://pet-hotel-one.vercel.app/">
-                        <img src="/assets/lanchonete.png" alt="Pet-Hotel" />
+                        
                         <h1>Projeto 5</h1>
                         <div className="informacoes-projeto">
                             <h2>Pet Hotel</h2>
@@ -70,7 +70,7 @@ const Projetos = () => {
                 </div>
                 <div className="projeto">
                     <a href="https://to-do-list-orcin-phi-13.vercel.app/">
-                        <img src="/assets/lanchonete.png" alt="To-Do" />
+                        
                         <h1>Projeto 6</h1>
                         <div className="informacoes-projeto">
                             <h2>To-Do-List</h2>
